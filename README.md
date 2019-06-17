@@ -5,3 +5,7 @@ We are exploring deductive approach for formal verification of discrete controll
 
 ## Architecture
 ![](images/architecture.png)
+
+
+## Comaprision between Horn-ICE with all the variables versus with reduced set of variables
+![](images/comparision.png)
